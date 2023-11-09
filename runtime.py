@@ -2,7 +2,7 @@ import os
 print("ZeroneLabs Systems")
 print("Checking Dependencies")
 os.system("pip install json")
-os.syetem("pip install colorama")
+os.system("pip install colorama")
 os.system("sudo apt install curl -y")
 
 import sys
